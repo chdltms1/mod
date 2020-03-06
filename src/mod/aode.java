@@ -1,3 +1,13 @@
+package mod;
+
+import java.util.Scanner;
+
+public class aode {
+	
+	public static void main(String[] args) {
+		
+		
+		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("궁금한 년도 입력");
 		
@@ -18,3 +28,6 @@
 			System.out.println(" 4로는 나눠지지만 100으로는 안댐");
 			
 		}
+	}
+
+}
