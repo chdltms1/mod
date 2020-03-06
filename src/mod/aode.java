@@ -11,3 +11,10 @@
 			System.out.println("4로 안나눠짐");
 			
 		}
+		
+		else { 
+//			100으로 나누고 다시 판단해야함
+			System.out.println("윤년이 맞음");
+			System.out.println(" 4로는 나눠지지만 100으로는 안댐");
+			
+		}
